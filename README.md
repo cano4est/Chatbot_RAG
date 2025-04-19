@@ -2,8 +2,8 @@
 
 Este es un chatbot interactivo basado en un restaurante de hamburguesas, fue construido con FastAPI, WebSockets y el modelo de IA Gemini de Google, ademas de usar la base de datos vectorizada ChromaDB. El chatbot proporciona información sobre el menú, opciones de comida y servicios disponibles.
 
-![Diagrama de arquitectura del sistema](Chatbot_RAG
-/Diagrama de flujo - chatbot.png)
+![image](https://github.com/user-attachments/assets/8ca9b957-8e90-4530-b593-f4dcb7d453ef)
+
 
 ## Requisitos previos
 
