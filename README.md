@@ -1,4 +1,4 @@
-# Burgers Chatbot
+# Burguer restaurant Chatbot
 
 Este es un chatbot interactivo basado en un restaurante de hamburguesas, fue construido con FastAPI, WebSockets y el modelo de IA Gemini de Google, ademas de usar la base de datos vectorizada ChromaDB. El chatbot proporciona información sobre el menú, opciones de comida y servicios disponibles.
 
