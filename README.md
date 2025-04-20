@@ -92,8 +92,6 @@ Para iniciar el servidor:
 python bot_rag.py
 ```
 
-La aplicación estará disponible en: http://localhost:8000
-
 ## Funcionamiento
 
 1. El chatbot utiliza ChromaDB para almacenar información sobre el menú y servicios de la hamburguesería
